@@ -1,2 +1,1 @@
-New file content 
-new line added <main>
+new line added <conflito>
